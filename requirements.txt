@@ -122,8 +122,6 @@ python-dateutil==2.8.2
 python-magic==0.4.27
 python-multipart==0.0.6
 pytils==0.4.1
-pytz==2023.3
-pywin32==306
 pyxnat==1.6
 PyYAML==6.0.1
 pyzmq==25.1.0
